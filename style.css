@@ -1,3 +1,10 @@
-h2{
-    color: blue;
+/* Barra de navegacion */
+.navbar{
+    padding: 2rem;
+    background-color: #f5f6f7;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
 }
